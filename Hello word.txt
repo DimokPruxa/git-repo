@@ -1,4 +1,6 @@
 print ("Hello word")
 print ("Hello всем")
 Привет из 4 урока
+5 урок конфликты
 5 update ;
+5 next update
